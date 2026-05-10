@@ -58,9 +58,9 @@ On the side I build Home Assistant integrations for things that don't have publi
 **Security Toolkit**
 
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-ED2B2B?style=for-the-badge&logo=ghidra&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-B70000?style=for-the-badge)
 ![Frida](https://img.shields.io/badge/-Frida-E33843?style=for-the-badge&logo=frida&logoColor=white)
