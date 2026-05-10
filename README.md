@@ -1,14 +1,44 @@
-# Joseph Woo · `redchupa`
+# `redchupa`
 
-> Penetration tester by trade · Home Assistant maintainer by night · Korean public-data wrangler
+> Principal security researcher · Penetration tester · I read code looking for what shouldn't be there
 
-🇰🇷 South Korea · 🔍 Find vulnerabilities · 🛡️ Drive remediation · 🛠️ Build things on the side
+🇰🇷 South Korea · 🔍 Find vulnerabilities · 🛡️ Drive remediation · 🛠️ Build on the side
 
 ---
 
 ## What I work on
 
-By day I'm a pentester — finding vulnerabilities in software that people trust, then driving the remediation so issues actually get fixed before anyone else stumbles into them. By night I build Home Assistant integrations for things that don't have public APIs — utility bills, real-time disaster alerts, transit, school meals — sourced from Korean government and public-data portals. Most of the side stuff is Python with authenticated session handling, on top of a self-hosted HA / SmartThings / Node-RED stack. When the wire format gets weird, I reverse-engineer it.
+Principal researcher at a cybersecurity firm — penetration testing, vulnerability research, and source-code audits across the modern stack. I find the bugs automated scanners miss and drive the remediation before anyone else stumbles into them. I read code looking for what shouldn't be there: deserialization chains, broken auth, race conditions, side-channels in places people stopped looking.
+
+I lean generalist over specialist — the most interesting bugs tend to live where one domain ends and another begins. I've spent time teaching coding, too, which keeps me honest about explaining findings to people who aren't security folks.
+
+On the side I build Home Assistant integrations for things that don't have public APIs — utility bills, real-time disaster alerts, transit, school meals — sourced from Korean government and public-data portals. Most of the side stuff is Python with authenticated session handling, on top of a self-hosted HA / SmartThings / Node-RED stack. When the wire format gets weird, I reverse-engineer it.
+
+---
+
+## 🏆 Selected achievements
+
+- **2025** — **Korea Exchange (KRX) Chairman's Commendation for Information Security Merit** &nbsp;·&nbsp; 정보보호 유공 한국거래소 이사장 표창
+- **2014** — **1st place, 9th Winter Hacking Camp CTF** (team `dog`) &nbsp;·&nbsp; 제9회 동계해킹캠프 CTF해킹대회 우승
+
+---
+
+## 🎯 Coverage
+
+**Primary**
+- Web app security — auth bypass, IDOR, deserialization chains, request smuggling, SSRF
+- Source-code audits — the bugs that didn't make the changelog
+- Reverse engineering — static analysis, patch diffing, fuzzing harness design
+
+**Adjacent (working knowledge)**
+- Mobile (iOS / Android) — runtime instrumentation, cert-pinning bypass, secure-storage flaws
+- Cloud — IAM misconfig, container escapes, metadata abuse
+- IoT / embedded — firmware extraction, protocol analysis
+- Kernel & low-level — privilege escalation primitives, syscall surface
+- Hardware — JTAG / UART entry points, side-channel basics
+- AI / LLM red-team — prompt injection, context exfiltration, agent abuse
+
+I lean generalist over specialist; the most interesting bugs tend to live where one domain ends and another begins.
 
 ---
 
