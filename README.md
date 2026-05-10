@@ -1,6 +1,6 @@
 # `redchupa`
 
-> Principal security researcher · Penetration tester · I read code looking for what shouldn't be there
+> Principal security researcher · Penetration tester
 
 🇰🇷 South Korea · 🔍 Find vulnerabilities · 🛡️ Drive remediation · 🛠️ Build on the side
 
@@ -8,18 +8,18 @@
 
 ## What I work on
 
-Principal researcher at a cybersecurity firm — penetration testing, vulnerability research, and source-code audits across the modern stack. I find the bugs automated scanners miss and drive the remediation before anyone else stumbles into them. I read code looking for what shouldn't be there: deserialization chains, broken auth, race conditions, side-channels in places people stopped looking.
+Principal researcher at a cybersecurity firm — penetration testing, vulnerability research, and source-code audits. Most of my work is reading code and chasing the parts that don't quite add up: deserialization chains, broken auth, race conditions, the side-channels people stop looking at.
 
-I lean generalist over specialist — the most interesting bugs tend to live where one domain ends and another begins. I've spent time teaching coding, too, which keeps me honest about explaining findings to people who aren't security folks.
+My background runs across most of the security stack — never the deepest tier of any one area, but useful when a finding crosses domain boundaries. I've spent time teaching coding too, which helps me write up findings in ways non-security folks can act on.
 
 On the side I build Home Assistant integrations for things that don't have public APIs — utility bills, real-time disaster alerts, transit, school meals — sourced from Korean government and public-data portals. Most of the side stuff is Python with authenticated session handling, on top of a self-hosted HA / SmartThings / Node-RED stack. When the wire format gets weird, I reverse-engineer it.
 
 ---
 
-## 🏆 Selected achievements
+## Recognition
 
-- **2025** — **Korea Exchange (KRX) Chairman's Commendation for Information Security Merit** &nbsp;·&nbsp; 정보보호 유공 한국거래소 이사장 표창
-- **2014** — **1st place, 9th Winter Hacking Camp CTF** (team `dog`) &nbsp;·&nbsp; 제9회 동계해킹캠프 CTF해킹대회 우승
+- 2025 · Korea Exchange (KRX) Chairman's Commendation for Information Security Merit
+- 2014 · 9th Winter Hacking Camp CTF — 1st place, team `dog`
 
 ---
 
@@ -27,18 +27,16 @@ On the side I build Home Assistant integrations for things that don't have publi
 
 **Primary**
 - Web app security — auth bypass, IDOR, deserialization chains, request smuggling, SSRF
-- Source-code audits — the bugs that didn't make the changelog
+- Source-code audits — the bugs that don't surface in commit messages
 - Reverse engineering — static analysis, patch diffing, fuzzing harness design
 
-**Adjacent (working knowledge)**
+**Working knowledge**
 - Mobile (iOS / Android) — runtime instrumentation, cert-pinning bypass, secure-storage flaws
 - Cloud — IAM misconfig, container escapes, metadata abuse
 - IoT / embedded — firmware extraction, protocol analysis
 - Kernel & low-level — privilege escalation primitives, syscall surface
 - Hardware — JTAG / UART entry points, side-channel basics
 - AI / LLM red-team — prompt injection, context exfiltration, agent abuse
-
-I lean generalist over specialist; the most interesting bugs tend to live where one domain ends and another begins.
 
 ---
 
