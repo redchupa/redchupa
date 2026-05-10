@@ -1,14 +1,14 @@
 # Joseph Woo · `redchupa`
 
-> Self-hosted everything · Home Assistant maintainer · Korean public-data wrangler
+> Penetration tester by trade · Home Assistant maintainer by night · Korean public-data wrangler
 
-🇰🇷 South Korea · 🛠️ Build first, polish later · 🚀 Shipping over perfecting
+🇰🇷 South Korea · 🔍 Find vulnerabilities · 🛡️ Drive remediation · 🛠️ Build things on the side
 
 ---
 
 ## What I work on
 
-I build Home Assistant integrations for things that don't have public APIs — utility bills, real-time disaster alerts, transit, school meals — sourced from Korean government and public-data portals. Most of it is Python with authenticated session handling, on top of a self-hosted HA / SmartThings / Node-RED stack. When the wire format gets weird, I reverse-engineer it.
+By day I'm a pentester — finding vulnerabilities in software that people trust, then driving the remediation so issues actually get fixed before anyone else stumbles into them. By night I build Home Assistant integrations for things that don't have public APIs — utility bills, real-time disaster alerts, transit, school meals — sourced from Korean government and public-data portals. Most of the side stuff is Python with authenticated session handling, on top of a self-hosted HA / SmartThings / Node-RED stack. When the wire format gets weird, I reverse-engineer it.
 
 ---
 
