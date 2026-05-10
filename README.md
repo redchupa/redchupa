@@ -69,6 +69,13 @@ On the side I build Home Assistant integrations for things that don't have publi
 ![radare2](https://img.shields.io/badge/-radare2-4F008C?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/-Volatility-6B5B95?style=for-the-badge)
 
+**Source-code Audit & Fuzzing**
+
+![Sparrow](https://img.shields.io/badge/-Sparrow-1E3A8A?style=for-the-badge)
+![Fortify](https://img.shields.io/badge/-Fortify-B71C1C?style=for-the-badge)
+![AFL++](https://img.shields.io/badge/-AFL%2B%2B-FF8C00?style=for-the-badge)
+![angr](https://img.shields.io/badge/-angr-5C2D91?style=for-the-badge)
+
 **Smart Home & Automation**
 
 ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
