@@ -20,13 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=redchupa&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redchupa&layout=compact&theme=default&hide_border=true&langs_count=8" />
-
----
-
 ## 🤝 Connect
 
 <a href="https://github.com/sponsors/redchupa"><img src="https://img.shields.io/badge/Sponsor-❤️-pink?style=for-the-badge" /></a>
