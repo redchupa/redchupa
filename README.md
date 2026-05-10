@@ -60,12 +60,10 @@ On the side I build Home Assistant integrations for things that don't have publi
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![nmap](https://img.shields.io/badge/-nmap-4682B4?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-ED2B2B?style=for-the-badge&logo=ghidra&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-B70000?style=for-the-badge)
 ![Frida](https://img.shields.io/badge/-Frida-E33843?style=for-the-badge&logo=frida&logoColor=white)
-![Hashcat](https://img.shields.io/badge/-Hashcat-2D2D2D?style=for-the-badge)
 ![radare2](https://img.shields.io/badge/-radare2-4F008C?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/-Volatility-6B5B95?style=for-the-badge)
 
