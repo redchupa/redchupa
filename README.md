@@ -23,7 +23,7 @@ On the side I build Home Assistant integrations for things that don't have publi
 
 ---
 
-## 🎯 Coverage
+## Coverage
 
 **Primary**
 - Web app security — auth bypass, IDOR, deserialization chains, request smuggling, SSRF
@@ -58,21 +58,21 @@ On the side I build Home Assistant integrations for things that don't have publi
 
 ## 🛠️ Featured Projects
 
-### 🇰🇷 [`kr_component_kit`](https://github.com/redchupa/kr_component_kit) &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; HACS
+### [`kr_component_kit`](https://github.com/redchupa/kr_component_kit) &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; HACS
 Home Assistant integration bundling **13 Korea-only public services** as native entities — `kepco`, `arisu`, `gasapp`, `safety_alert`, `disaster`, `kma_weather`, `airkorea`, `earthquake`, `pharmacy`, `fuel`, `school`, `transit`, `weather`. Each ships with an LLM tool for natural-Korean voice queries. Authenticated scraping where APIs don't exist, idempotent config flow, multi-region support.
 
-### 🎟️ [`ha-app-dhlottery`](https://github.com/redchupa/ha-app-dhlottery) &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Docker`
+### [`ha-app-dhlottery`](https://github.com/redchupa/ha-app-dhlottery) &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Docker`
 Korean DH Lottery 6/45 auto-buy & analysis Home Assistant Add-on. MQTT Discovery, REST API with Swagger UI, hot/cold statistical analysis, encrypted credential storage.
 
-### 📺 [`youtube_monitoring_addon`](https://github.com/redchupa/youtube_monitoring_addon) &nbsp;·&nbsp; `Python`
+### [`youtube_monitoring_addon`](https://github.com/redchupa/youtube_monitoring_addon) &nbsp;·&nbsp; `Python`
 Cookie-based YouTube watch-history tracker as a Home Assistant add-on.
 
-### 🚀 [`smartthings-edge-driver`](https://github.com/redchupa/smartthings-edge-driver) &nbsp;·&nbsp; `Lua`
+### [`smartthings-edge-driver`](https://github.com/redchupa/smartthings-edge-driver) &nbsp;·&nbsp; `Lua`
 SmartThings Edge driver collection running on the SmartThings hub.
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <a href="https://github.com/sponsors/redchupa"><img src="https://img.shields.io/badge/Sponsor-❤️-pink?style=for-the-badge" /></a>
 <a href="https://github.com/redchupa?tab=repositories"><img src="https://img.shields.io/badge/All_repos-→-blue?style=for-the-badge&logo=github" /></a>
