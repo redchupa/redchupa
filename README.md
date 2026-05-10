@@ -10,7 +10,7 @@
 ### 🇰🇷 [kr_component_kit](https://github.com/redchupa/kr_component_kit)
 > Home Assistant integration for **13 Korea-only services** — KEPCO, 아리수, 가스앱, 안전알림, 재난문자, 기상특보, 지진, 기상청 동네예보, 에어코리아, 약국, 유가, 학교 급식, 실시간 대중교통
 
-### 🎟️ [ha-addons-dhlottery](https://github.com/redchupa/ha-addons-dhlottery)
+### 🎟️ [ha-app-dhlottery](https://github.com/redchupa/ha-app-dhlottery)
 > 동행복권 로또 6/45 자동 구매·분석 Home Assistant Add-on (MQTT Discovery 자동 통합)
 
 ### 📺 [youtube_monitoring_addon](https://github.com/redchupa/youtube_monitoring_addon)
