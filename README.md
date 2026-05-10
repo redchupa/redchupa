@@ -1,4 +1,4 @@
-# Joseph Woo · `redchupa`
+# `redchupa`
 
 > Principal security researcher · Penetration tester · I read code looking for what shouldn't be there
 
