@@ -64,13 +64,9 @@ On the side I build Home Assistant integrations for things that don't have publi
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-ED2B2B?style=for-the-badge&logo=ghidra&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-B70000?style=for-the-badge)
-![sqlmap](https://img.shields.io/badge/-sqlmap-FF7F00?style=for-the-badge)
-![Hashcat](https://img.shields.io/badge/-Hashcat-2D2D2D?style=for-the-badge)
-![John the Ripper](https://img.shields.io/badge/-John_the_Ripper-2D2D2D?style=for-the-badge)
 ![Frida](https://img.shields.io/badge/-Frida-E33843?style=for-the-badge&logo=frida&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Hashcat](https://img.shields.io/badge/-Hashcat-2D2D2D?style=for-the-badge)
 ![radare2](https://img.shields.io/badge/-radare2-4F008C?style=for-the-badge)
-![Nuclei](https://img.shields.io/badge/-Nuclei-1E90FF?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/-Volatility-6B5B95?style=for-the-badge)
 
 **Smart Home & Automation**
