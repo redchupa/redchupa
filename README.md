@@ -98,8 +98,8 @@ On the side I build Home Assistant integrations for things that don't have publi
 ### [`kr_component_kit`](https://github.com/redchupa/kr_component_kit) &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; HACS
 Home Assistant integration bundling **13 Korea-only public services** as native entities — `kepco`, `arisu`, `gasapp`, `safety_alert`, `disaster`, `kma_weather`, `airkorea`, `earthquake`, `pharmacy`, `fuel`, `school`, `transit`, `weather`. Each ships with an LLM tool for natural-Korean voice queries. Authenticated scraping where APIs don't exist, idempotent config flow, multi-region support.
 
-### [`ha-app-dhlottery`](https://github.com/redchupa/ha-app-dhlottery) &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Docker`
-Korean DH Lottery 6/45 auto-buy & analysis Home Assistant Add-on. MQTT Discovery, REST API with Swagger UI, hot/cold statistical analysis, encrypted credential storage.
+### [`kr_finance_kit`](https://github.com/redchupa/kr_finance_kit) &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; HACS
+Korea / US equities, FX, crypto, and OpenDart filings as native Home Assistant sensors — no brokerage account, free APIs only (yfinance + OpenDart). KOSPI / KOSDAQ / Nasdaq indices, per-ticker short-window % change (1m–180m), KRW-converted USD holdings P/L with threshold alerts, voice-assistant ready.
 
 ### [`youtube_monitoring_addon`](https://github.com/redchupa/youtube_monitoring_addon) &nbsp;·&nbsp; `Python`
 Cookie-based YouTube watch-history tracker as a Home Assistant add-on.
