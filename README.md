@@ -104,6 +104,8 @@ Korea / US equities, FX, crypto, and OpenDart filings as native Home Assistant s
 ### [`youtube_monitoring_addon`](https://github.com/redchupa/youtube_monitoring_addon) &nbsp;·&nbsp; `Python`
 Cookie-based YouTube watch-history tracker as a Home Assistant add-on.
 
+[![Add repository to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fredchupa%2Fyoutube_monitoring_addon)
+
 ### [`smartthings-edge-driver`](https://github.com/redchupa/smartthings-edge-driver) &nbsp;·&nbsp; `Lua`
 SmartThings Edge driver collection running on the SmartThings hub.
 
